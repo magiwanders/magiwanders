@@ -3,12 +3,12 @@
 <div align=center>
   I am a graduate <b>M.Eng. in Music&Acoustics Engineering</b> from Milan, currently working on <b>DSP and Electroacoustic Design</b> at <a href="https://www.bdsound.com/">BdSound</a>. This is where I keep all my personal projects! Feel free to explore my repositories, but for less code-centric stuff about me go to:
 </div>
-
+<br>
 <div align=center>
   <a href="https://www.magiwanders.com/"><img src="https://img.shields.io/badge/Personal%20Website-a?style=for-the-badge&color=green&link=https%3A%2F%2Fwww.magiwanders.com" alt="Personal Website" /></a>  
   <a href="https://www.magiwanders.com/about/SimoneShawnCazzaniga_CV_202309.pdf"><img src="https://img.shields.io/badge/CV-a?style=for-the-badge&color=orange&link=https%3A%2F%2Fwww.magiwanders.com%2Fabout%2FSimoneShawnCazzaniga_CV_202309.pdf" alt="CV" /> </a>
 </div>
-
+<br>
 <div align=center>
 Here is a list of technologies I have worked with over the years:
 <div>
