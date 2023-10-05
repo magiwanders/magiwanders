@@ -4,7 +4,6 @@
   I am a graduate <b>M.Eng. in Music&Acoustics Engineering</b> from Milan, currently working on <b>DSP and Electroacoustic Design</b> at <a href="https://www.bdsound.com/">BdSound</a>. This is where I keep all my personal projects! Feel free to explore my repositories, but for less code-centric stuff about me go to:
 </div>
 
-
 <div align=center>
   <a href="https://www.magiwanders.com/"><img src="https://img.shields.io/badge/Personal%20Website-a?style=for-the-badge&color=green&link=https%3A%2F%2Fwww.magiwanders.com" alt="Personal Website" /></a>  
   <a href="https://www.magiwanders.com/about/SimoneShawnCazzaniga_CV_202309.pdf"><img src="https://img.shields.io/badge/CV-a?style=for-the-badge&color=orange&link=https%3A%2F%2Fwww.magiwanders.com%2Fabout%2FSimoneShawnCazzaniga_CV_202309.pdf" alt="CV" /> </a>
@@ -46,8 +45,7 @@ Here is a list of technologies I have worked with over the years:
         <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
       <img width="30px" src="https://api.iconify.design/fad/logo-reaper.svg" />
   </kbd>
-        <br>
-    <br>
+        <br><br>
      <kbd>
       <kbd>Mobile</kbd>
       <br>
@@ -89,11 +87,10 @@ Here is a list of technologies I have worked with over the years:
   </p>
 </div>
 
-
+<br>
 <div align=center>
   If you want to connect, feel free to drop me a message!
 </div>
-
 
 <div align=center>
   <a href="https://www.linkedin.com/in/simone-shawn-cazzaniga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
