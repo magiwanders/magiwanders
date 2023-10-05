@@ -97,9 +97,6 @@ Here is a list of technologies I have worked with over the years:
   <a href="mailto:simone.shawn.cazzaniga@gmail.com?subject=Hi%20Simon%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
-<div align=center>
+<br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magiwanders&show_icons=true&locale=en" alt="magiwanders" />
-</div>
-<div align=center>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=magiwanders&show_icons=true&locale=en" alt="magiwanders" />
-</div>
