@@ -93,7 +93,7 @@ Here is a list of technologies I have worked with over the years:
 </div>
 
 <div align=center>
-  <a href="https://www.linkedin.com/in/simone-shawn-cazzaniga/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/shawnsc/"><img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" /></a>
   <a href="mailto:simone.shawn.cazzaniga@gmail.com?subject=Hi%20Simon%20,%20nice%20to%20meet%20you!"><img alt="Email" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" /></a>
 </div>
 
