@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simone</h1>
+<h1 align="center">Hi 👋, I'm Shawn</h1>
 
 <div align=center>
   I am a graduate <b>M.Eng. in Music&Acoustics Engineering</b> from Milan, currently working on <b>DSP and Electroacoustic Design</b> at <a href="https://www.bdsound.com/">BdSound</a>. This is where I keep all my personal projects! Feel free to explore my repositories, but for less code-centric stuff about me go to:
